@@ -75,7 +75,7 @@ input[type="radio"] {
 }
 
 .container-fluid {
-    max-width: 1350px;
+    max-width: 1150px;
     padding-right: 30px;
     padding-left: 30px;
 }
@@ -104,11 +104,11 @@ input[type="radio"] {
 
 #wrapper-navbar {
 	background-color: #1da1f2;
-	background-color: #0054a6;
+	background-color: #099f19;
 }
 
 .navbar-white {
-	background-color: #0054a6;
+	background-color: #099f19;
 }
 
 .navbar-expand-md>.container,
@@ -285,16 +285,13 @@ label>strong {
 	font-weight: 400 !important;
 }
 
-.form-control,
-.custom-select,
-.input-group-text,
-.select2-container--bootstrap4 .select2-selection {
-	/* height: 36px; */
-	/* font-size: 14px; */
-	/* padding: 6px; */
-	border-radius: 0;
-	/* border: 1px solid #ddd; */
-	box-shadow: none;
+.form-control, .custom-select, .input-group-text, .select2-container--bootstrap4 .select2-selection {
+    height: 34px;
+    font-size: 14px;
+    /* padding: 6px; */
+    border-radius: 0;
+    /* border: 1px solid #ddd; */
+    box-shadow: none;
 }
 
 .custom-select:disabled,
