@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'boishakhi';
+    src: url('../../fonts/Boishkhi.ttf') format('truetype');
+
+}
+.input_bangla{
+    font-family: boishakhi !important;
+    font-size: 90%;
+}
+
+.text_bangla{
+    font-family: boishakhi !important;
+    font-size: 18px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
